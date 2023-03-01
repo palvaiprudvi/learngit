@@ -1,5 +1,5 @@
 welcome to javascript code
-alert
-prompt
+set 
+and datetype of javascript
 function
 dom and event and closure function
