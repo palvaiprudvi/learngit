@@ -1,0 +1,4 @@
+welcome to javascript code
+alert
+prompt
+function
