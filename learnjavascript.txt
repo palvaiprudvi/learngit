@@ -2,3 +2,4 @@ welcome to javascript code
 alert
 prompt
 function
+dom and event and closure function
